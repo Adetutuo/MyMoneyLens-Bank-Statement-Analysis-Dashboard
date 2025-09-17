@@ -15,12 +15,13 @@ It marks one of my first practical steps in transitioning from **Architectural D
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](BankStatementDashboard.png)
+![Dashboard Preview][(BankStatementDashboard.png)](https://github.com/Adetutuo/MyMoneyLens-Bank-Statement-Analysis-Dashboard/blob/main/BANK%20ANALYSIS%20DASHBOARD.jpg
+)
 
 ---
 
 ## 📁 Dataset  
-[Download the Excel File](BankStatementData.xlsx)
+[Download the Excel File][(BankStatementData.xlsx)](https://github.com/Adetutuo/MyMoneyLens-Bank-Statement-Analysis-Dashboard/blob/main/BankStatementData.xlsx)
 
 ---
 
