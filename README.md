@@ -50,8 +50,8 @@ It marks one of my first practical steps in transitioning from **Architectural D
 ---
 
 ## 📁 Files in this Repository  
-- `PROJECT_001.xlsx` – cleaned dataset (anonymized)  
-- `dashboard_screenshot.png` – dashboard visualization image  
+- `BankStatementData` – cleaned dataset (anonymized)  
+- `BANKANALYSISDASHBOARD` – dashboard visualization image  
 - `README.md` – this file
 
 ---
