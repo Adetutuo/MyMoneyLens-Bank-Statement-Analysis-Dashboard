@@ -15,7 +15,7 @@ It marks one of my first practical steps in transitioning from **Architectural D
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](BANKANALYSISDASHBOARD.jpg)
 
 ---
 
