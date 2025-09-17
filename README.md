@@ -59,4 +59,5 @@ It marks one of my first practical steps in transitioning from **Architectural D
 ## 📝 Author  
 **Adetutu Oluwasemilore**  
 Data Analyst | Financial & Business Analytics | Excel · SQL · Power BI | Budgeting & Forecasting
+
 [LinkedIn Profile]([https://www.linkedin.com](http://www.linkedin.com/in/adetutu-oluwasemilore-5a6b6a11a)) 
