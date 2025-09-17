@@ -15,12 +15,12 @@ It marks one of my first practical steps in transitioning from **Architectural D
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](BANKANALYSISDASHBOARD.jpg)
+![Dashboard Preview](BankStatementDashboard.png)
 
 ---
 
 ## 📁 Dataset  
-[Download the Excel File](PROJECT_001.xlsx)
+[Download the Excel File](BankStatementData.xlsx)
 
 ---
 
